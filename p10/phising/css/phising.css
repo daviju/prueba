@@ -1,0 +1,22 @@
+div#principal {
+    border: 1px solid black;
+    background-color: red;
+    margin-top: 200px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 200px;
+    
+}
+img#alert {
+    width: 30%;
+    height: 30%;
+    display: block;
+    margin: auto;
+}
+p#texto {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: arial;
+    font-size: 120%;
+}

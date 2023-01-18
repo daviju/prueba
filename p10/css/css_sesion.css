@@ -1,0 +1,198 @@
+body {
+    font-family: arial;
+}
+/* Primera línea de contenido */
+div#head {
+    background-color: #1a447c;
+    height: 5%;
+    display: flex;
+    align-items: center;
+    margin-top: -9px;
+}
+a#bienvenidos {
+    color: white;
+    margin-left: 22%;
+}
+a#benvidos {
+    color: #f8d447;
+    margin-left: 1%;
+}
+a#benvinguts {
+    color: #f8d447;
+    margin-left: 1%;
+}
+a#ongi {
+    color: #f8d447;
+    margin-left: 1%;
+}
+a#welcome {
+    color: #f8d447;
+    margin-left: 1%;
+    margin-right: 15%;
+}
+/* Botón Inicio sesión */
+div#especial {
+    background-color: #f8d447;
+    float: right;
+    padding-top: 0.75%;
+    padding-bottom: 0.81%;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-weight: bold;
+}
+a#sesion {
+    text-decoration-line: none;
+}
+/* Segunda línea de contenido: correos y logos */
+div#body {
+    background-color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img#correos {
+    width: 10%;
+    height: 5%;
+    margin-left: 1%;
+}
+img#raton {
+    width: 1.9%;
+    height: 4%;
+    margin-left: 24%
+}
+a#virtual #horarios #buscador {
+    margin-right: 20%;
+}
+img#reloj {
+    width: 1.7%;
+    height: 4%;
+    margin-left: 20px;
+}
+img#lupa {
+    width: 1.6%;
+    height: 4%;
+    margin-left: 20px;
+}
+/* Tercera línea de contenido: botones */
+div#body2 {
+    background-color: #f8d447;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 23%;
+    font-size: 90%;
+}
+.separador {
+    color: gray;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#lista1 li {
+    display: inline;
+}
+/* Cuarta línea de contenido: formulario */
+div#tabla {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4%;
+}
+td#inicio {
+    padding-left: 24%;
+}
+button#botones {
+    margin-left: 40%;
+    margin-right: -20%;
+    margin-top: 5%;
+}
+/* Quinta línea de contenido: columnas */
+div#col {
+    float: left;
+    margin-left: 23%;
+    margin-right: -20%;
+    margin-top: 5%;
+}
+img#avion {
+    padding-left: 41%;
+    margin-top: 19px;
+    margin-bottom: -3px;
+}
+img#postal {
+    padding-left: 37%;
+    margin-top: 18px;
+}
+img#ubicacion {
+    padding-left: 35%;
+    margin-top: 20px;
+}
+p#col1 {
+    padding-left: 25%;
+    font-weight: bold;
+}
+p#col2 {
+    padding-left: 13%;
+    font-weight: bold;
+}
+p#col3 {
+    padding-left: 17%;
+    font-weight: bold;
+}
+
+div#tocapelotas {
+    float: left;
+    margin-left: 21.7%;
+}
+img#flechagrande {
+    width: 40px;
+    height: 50px;
+    margin-top: 350%;
+}
+
+p#prueba{
+    margin-top: -5%;
+    color: gray;
+    
+}
+p#prueba2{
+    margin-top: -5%;
+    color: gray;
+}
+p#prueba3{
+    margin-top: -5%;
+    color: gray;
+}
+/* Última línea de contenido */
+div#col2 {
+    margin-top: 20%;
+    margin-left: 44%;
+    font-weight: bold;
+    margin-bottom: -10%;
+}
+img#col2 {
+    width: 15px;
+    height: 25px;
+}
+
+div#final {
+    margin-top: 2%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+a#ayuda {
+    font-size: 135%;
+}
+div#linetop {
+    height: 3px;
+    background-color: #dedede;
+    margin-top: 12%;
+    margin-bottom: -2.2%;
+}
+div#linebottom {
+    height: 3px;
+    background-color: #f8d447;
+    margin-top: -1.8%;
+}
